@@ -1,0 +1,6 @@
+{
+  "name": "Aura Medical Clinic",
+  "description": "A premium, patient-focused medical clinic website and interactive appointment scheduler featuring expert consultations, professional healthcare branding, and responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
